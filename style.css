@@ -1,0 +1,52 @@
+.text-center {
+    padding: 2%;
+    color: white;
+    background-color: black;
+    margin-bottom: 0;
+}
+
+.border-line {
+    border: 2px solid black;
+    margin: 0px;
+}
+
+.name-padding {
+    padding-top: 15px;
+}
+
+.main {
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.label-text {
+    text-align: center;
+    font-weight: bold;
+}
+
+.padding-div {
+    padding-right: 8%;
+}
+
+.radio-flex {
+    display: flex;
+}
+
+.button-text {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.form-class {
+    background-color: rgb(233, 231, 231);
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+.t-style{
+    margin-bottom: 0;
+}
